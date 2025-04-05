@@ -15,7 +15,6 @@ Image-Inpainting/
 ├── Resources/                  # Supporting images, figures, and other materials
 ├── Image_Inpainting_Final.pdf # Final compiled seminar report
 ├── main.tex                   # LaTeX source code of the report
-├── references.bib             # Bibliography file (if used)
 └── README.md                  # This file
 ```
 
@@ -23,18 +22,15 @@ Image-Inpainting/
 
 - Introduction to Image Inpainting
 - Traditional Techniques:
-  - Diffusion-based methods
-  - Patch-based methods
+  - Examplar based Texture Synthesis
 - Deep Learning Approaches:
-  - Convolutional Neural Networks (CNNs)
   - Generative Adversarial Networks (GANs)
-- Evaluation Metrics
 - Challenges and Future Scope
 
 ## 🛠️ Tools Used
 
 - **Overleaf** – for collaborative LaTeX writing
-- **LaTeX** – for document preparation
+- **Python** – for running the inpainting experiment on my data
 - **Git & GitHub** – for version control
 
 ## 📌 Note
